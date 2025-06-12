@@ -1,1 +1,1 @@
-print ("Korea branch")
+print ("Japan branch")
